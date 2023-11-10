@@ -1,0 +1,52 @@
+body {font family:"Roboto", sans-serif; 
+    color: #2E2F42; 
+    font-size: 16px; 
+    font-weight: 500;
+    line-height: 24px;}
+.navigation {list-style-type:none;}
+
+.main-logo {color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    text-decoration:none;}
+
+span {color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    text-decoration: none;}
+
+.contacts {color:#434455;}
+.contacts:hover, 
+.contacts:focus {
+    color: #4D5AE5;}
+    
+.title {color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    background-color:#2E2F42;}
+
+.click-order {color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    background-color: #4D5AE5;} 
+
+.click-order:hover, .click-order:focus {color:black}
