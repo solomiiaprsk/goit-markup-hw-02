@@ -53,12 +53,12 @@ span {color: #2e2f42;
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0.02emx;
+    letter-spacing: 0.02em;
 }
 .starting-page {background-color: #2E2F42;}
 
 .click-order {color: #FFF;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -66,10 +66,9 @@ span {color: #2e2f42;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;} 
 
-.click-order:hover, .click-order:focus {color:#404BBF; cursor:pointer;}
+.click-order:hover, .click-order:focus {color:#404BBF; cursor:pointer;background-color: #404BBF;}
 
 .second-title {color: #2E2F42;
-    text-align: center;
     font-family: Roboto;
     font-size: 36px;
     font-style: normal;
@@ -81,6 +80,18 @@ span {color: #2e2f42;
     background-color: #FFF;
     }
 
+.second-title-tbd {
+            color: #2E2F42;
+            text-align: center;
+            font-family: Roboto, sans-serif;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 1.2;
+            text-transform: capitalize;
+            letter-spacing: 0.02em;
+            background-color: #FFF;
+        }
 .value-names, .team-members, .portfolio-list {color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -99,7 +110,6 @@ span {color: #2e2f42;
 .about-us {background: #F4F4FD;}
 .second-title-second {
         color: #2E2F42;
-        text-align: center;
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
