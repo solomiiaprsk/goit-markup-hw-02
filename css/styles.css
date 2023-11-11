@@ -3,6 +3,8 @@ body {font family:"Roboto", sans-serif;
     font-size: 16px; 
     font-weight: 500;
     line-height: 24px;}
+
+.list {list-style-type: none;}
 .navigation {list-style-type:none;}
 
 .main-logo {color: #2E2F42;
@@ -29,7 +31,7 @@ span {color: #4D5AE5;
 .contacts:hover, 
 .contacts:focus {
     color: #4D5AE5;}
-    
+
 .title {color: #FFF;
     text-align: center;
     font-family: Roboto;
@@ -38,7 +40,8 @@ span {color: #4D5AE5;
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 1.12px;
-    background-color:#2E2F42;}
+}
+.starting-page {background-color: #2E2F42;}
 
 .click-order {color: #FFF;
     font-family: Roboto;
@@ -49,4 +52,26 @@ span {color: #4D5AE5;
     letter-spacing: 0.64px;
     background-color: #4D5AE5;} 
 
-.click-order:hover, .click-order:focus {color:black}
+.click-order:hover, .click-order:focus {color:black; cursor:pointer;}
+
+.value-names, .team-members {color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;}
+
+.about-values, .teammember-position {color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;}
+
+.about-us {background: #F4F4FD;}
+.our-team-cards {background: #FFF;}
+
+<!-- wymyslic class dla h2 i dodac style--> 
+
