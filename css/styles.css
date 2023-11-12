@@ -66,7 +66,13 @@ span {color: #2e2f42;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;} 
 
-.click-order:hover, .click-order:focus {color:#404BBF; cursor:pointer;background-color: #404BBF;}
+.click-order:hover, 
+.click-order:focus {; 
+    cursor:pointer;
+    background-color: #404BBF; 
+    text-decoration: none;
+    }
+
 
 .second-title {color: #2E2F42;
     font-family: Roboto;
